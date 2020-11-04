@@ -1,1 +1,1 @@
-一个轮播组件MySwiper
+一个react轮播组件
